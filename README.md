@@ -1,3 +1,29 @@
+## Nosotros
+
+Somos un equipo transdiciplinario que ha venido trabajando juntos desde el año 2017 presentando proyectos ganadores en el sector de los videojuegos educativos, hoy mucho más maduros seguimos creciendo y creando propuestas que ayuden a la sociedad en el campo de las tecnologías.
+
+## Nuestros proyectos:
+Estas son las propuestas que creamos durante la ejecución de las hackatones
+
+### Qutunta en la Hackatón por la Amazonía
+El pasado campeonato en 2017 participamos en el evento organizado por la Sociedad Peruana de Derecho Ambintal (SPDA) presentando un juego arcade 2D donde contabamos la vida de Ramiro una persona que tiene la posibilidad de cambiar el destino de los árboles en su región, él encontró a unos leñadores que talaban los árboles de la localidad, la historia viene inspirada por lo que pasó en Tamshiyaku.
+
+
+### 3R Game
+El videojuego enseñaba a clasificar los deshechos en la categoría que corresponda, este producto es orientado los niños en su edad temprana de entre los 7 y 11 años, sobre su ejecución iba orientado en principio a una experiencia VR aunque por motivos de tiempo tuvimos que ajustarnos unicamente a desarrollo web.
+
+
+### Meetplace
+Esta es una propuesta que conecta a las personas que siempre tienen un espacio muerto en casa como por ejemplo la sala de estar o el comedor, ya que es usual encontrar grupos de personas en las principales ciudades buscando desarrollar alguna reunión del equipo de trabajo o bien reunirse con un cliente; la aplicación para equipos móviles hace que se encuentren los interesados y transa una reunión en el horario definido, para hacer más atractivos los lugares de reunión nuestros anfitriones se esfuerzan en agregar valor al ambiente, brindando opciones como café , servicio de impresión y demás.
+
+## Contáctenos
+Estamos ubicados en Lima - Perú , pueden contactarse al número +51 947304572 , atendemos de lunes a sábado de 08:00 - 16:0 horas.
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kutanlab/kutanlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
